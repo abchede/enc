@@ -19,7 +19,7 @@ Encryption menggunakan SHC Atau BZEXE/BZIP2 tanpa ribet harus encrypt satu persa
 
 <li>Penting!</li>
 Salin folder autoscript nya ke dalam folder root vps lalu ketik ./enc.sh atau ./shc.sh nama_folder <br>
-contoh : ./enc.sh sfvt<br>
+contoh : ./enc.sh gxvpn<br>
 ini akan menencrypt seluruh file di dalam enc beserta sub folder nya<br>
 Contoh :
 
